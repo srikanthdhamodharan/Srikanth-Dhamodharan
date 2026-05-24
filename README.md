@@ -67,6 +67,6 @@ I bring a rare combination of technical programming skills from my CS Engineerin
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]((https://linkedin.com/in/sri-dhamodharan))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sri-dhamodharan)
 
 💬 Always happy to connect with analytics professionals, recruiters and fellow data enthusiasts in Ireland and UAE!
